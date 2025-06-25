@@ -1,4 +1,4 @@
-# Deepfake Image Detection using EfficientNet-B0
+# Deepfake Image Detection using EfficientNet-B4/B5
 
 This project presents a deep learning-based solution for detecting deepfake images using the EfficientNet-B0 CNN model. The model is trained and fine-tuned on a large dataset comprising over 200,000 images from FaceForensics++, DeepFake Detection Challenge (DFD), and NVIDIA datasets. It achieves high accuracy and AUC scores and is deployed via a user-friendly web application.
 
